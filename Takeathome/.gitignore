@@ -1,1 +1,2 @@
-/**/.settings/
+# ignore entire settings
+/.settings/
